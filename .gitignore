@@ -1,0 +1,4 @@
+bin/
+obj/
+wwwroot/*
+.DS_STORE
