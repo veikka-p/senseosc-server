@@ -2,6 +2,10 @@
 
 SenseOSC Server is a C# .NET application designed to facilitate the communication between environmental sensors connected to Arduino Nicla Sense Me Bosch Microcontroller and Isadora, a visual programming environment for interactive media.
 
+[SenseOSC](https://github.com/veikka-p/senseosc)
+
+[SenseOSC Client](https://github.com/veikka-p/senseosc-client)
+
 ## Prerequisites
 
 - Windows or Intel Mac
